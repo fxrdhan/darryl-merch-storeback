@@ -7,7 +7,6 @@ yarn-error.log
 
 .idea
 
-yarn.lock
 .vscode
 storeback_snapshot.txt
 db_exports/
