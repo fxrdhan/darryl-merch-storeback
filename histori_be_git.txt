@@ -1,4 +1,16 @@
-commit 540147ff71b9e8800191b6dcdec2bf572398b0c2 (HEAD -> main, origin/main)
+commit e6e567c2d64d50a7934a9e59aa00ce86b16960d1 (HEAD -> main)
+Author: fxrdhan <firdausarief65@gmail.com>
+Date:   Sun May 11 16:39:51 2025 +0700
+
+    Add multiple image files for DRRYL project assets
+
+commit 8c5d57a7f9df1af62abec76b1ec2a049d0904ad7
+Author: fxrdhan <firdausarief65@gmail.com>
+Date:   Sun May 11 16:39:31 2025 +0700
+
+    Add histori_be_git.txt to track commit history
+
+commit 540147ff71b9e8800191b6dcdec2bf572398b0c2 (origin/main)
 Author: fxrdhan <firdausarief65@gmail.com>
 Date:   Sat May 3 22:11:14 2025 +0700
 
