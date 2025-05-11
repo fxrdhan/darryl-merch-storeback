@@ -1,0 +1,145 @@
+commit 540147ff71b9e8800191b6dcdec2bf572398b0c2 (HEAD -> main, origin/main)
+Author: fxrdhan <firdausarief65@gmail.com>
+Date:   Sat May 3 22:11:14 2025 +0700
+
+    Add enableStrictPeerDependencies setting to .yarnrc.yml
+
+commit f7ec64b9c40ae546ac3a6239a1eb4db796659dc3 (origin/dependabot/npm_and_yarn/prismjs-1.30.0)
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sat May 3 14:43:38 2025 +0000
+
+    Bump prismjs from 1.29.0 to 1.30.0
+    
+    Bumps [prismjs](https://github.com/PrismJS/prism) from 1.29.0 to 1.30.0.
+    - [Release notes](https://github.com/PrismJS/prism/releases)
+    - [Changelog](https://github.com/PrismJS/prism/blob/v2/CHANGELOG.md)
+    - [Commits](https://github.com/PrismJS/prism/compare/v1.29.0...v1.30.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: prismjs
+      dependency-version: 1.30.0
+      dependency-type: indirect
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 5d084e706b8cf023629a3e43cc2428b4c3c0c890 (origin/dependabot/npm_and_yarn/babel/helpers-7.27.1)
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sat May 3 14:43:35 2025 +0000
+
+    Bump @babel/helpers from 7.26.7 to 7.27.1
+    
+    Bumps [@babel/helpers](https://github.com/babel/babel/tree/HEAD/packages/babel-helpers) from 7.26.7 to 7.27.1.
+    - [Release notes](https://github.com/babel/babel/releases)
+    - [Changelog](https://github.com/babel/babel/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/babel/babel/commits/v7.27.1/packages/babel-helpers)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: "@babel/helpers"
+      dependency-version: 7.27.1
+      dependency-type: indirect
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 76d75d97aaf69a8521ba735ee946c68187ddf77b (origin/dependabot/npm_and_yarn/babel/runtime-7.27.1)
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sat May 3 14:43:34 2025 +0000
+
+    Bump @babel/runtime from 7.26.7 to 7.27.1
+    
+    Bumps [@babel/runtime](https://github.com/babel/babel/tree/HEAD/packages/babel-runtime) from 7.26.7 to 7.27.1.
+    - [Release notes](https://github.com/babel/babel/releases)
+    - [Changelog](https://github.com/babel/babel/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/babel/babel/commits/v7.27.1/packages/babel-runtime)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: "@babel/runtime"
+      dependency-version: 7.27.1
+      dependency-type: indirect
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 6cc93a1b4612a88641fc368cdd68e77576db6ee9 (origin/dependabot/npm_and_yarn/vite-5.4.19)
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sat May 3 14:43:25 2025 +0000
+
+    Bump vite from 5.4.14 to 5.4.19
+    
+    Bumps [vite](https://github.com/vitejs/vite/tree/HEAD/packages/vite) from 5.4.14 to 5.4.19.
+    - [Release notes](https://github.com/vitejs/vite/releases)
+    - [Changelog](https://github.com/vitejs/vite/blob/v5.4.19/packages/vite/CHANGELOG.md)
+    - [Commits](https://github.com/vitejs/vite/commits/v5.4.19/packages/vite)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: vite
+      dependency-version: 5.4.19
+      dependency-type: direct:development
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 5446ee52edfc212584c847e73d2cf507823b6f02
+Author: Firdaus Arif R <firdausarief65@gmail.com>
+Date:   Sat May 3 21:43:03 2025 +0700
+
+    Create dependabot.yml
+
+commit f7fe70192cf59414866b1ad0b733df61b724cbeb
+Author: fxrdhan <firdausarief65@gmail.com>
+Date:   Sat May 3 21:12:29 2025 +0700
+
+    Add resolutions for React and React DOM in package.json
+
+commit 660ef83d784235c68bc52c0b5a41d58bc113a826
+Author: fxrdhan <firdausarief65@gmail.com>
+Date:   Fri May 2 12:12:11 2025 +0700
+
+    Remove yarn.lock from .gitignore
+
+commit b272bbdcca12108bca017e1669bccdd30c3e8dcf
+Author: fxrdhan <firdausarief65@gmail.com>
+Date:   Fri May 2 12:12:05 2025 +0700
+
+    Init
+
+commit 2386a34c2bd991d1aadea583f7db66604a753f8a
+Author: fxrdhan <firdausarief65@gmail.com>
+Date:   Thu May 1 20:37:01 2025 +0700
+
+    Add new image files for project assets
+
+commit 7268af92e08fa95264b3b6bd9378ff706edca503
+Author: fxrdhan <firdausarief65@gmail.com>
+Date:   Thu May 1 19:14:02 2025 +0700
+
+    Add db_exports/ and export_all_pg_to_json.sh to .gitignore
+
+commit 273df290cc7f27073f4ef27afed49d48aa226240
+Author: fxrdhan <firdausarief65@gmail.com>
+Date:   Thu May 1 19:07:06 2025 +0700
+
+    Add packageManager field to package.json
+
+commit f327f7b1922b85751a9a0ff4c6b5fd81f341c3c9
+Author: fxrdhan <firdausarief65@gmail.com>
+Date:   Thu May 1 16:45:35 2025 +0700
+
+    Add create_snapshot.sh script to generate project snapshots
+
+commit 59c68560d778a1b67fe2450d94b16da929a9e395
+Author: fxrdhan <firdausarief65@gmail.com>
+Date:   Thu May 1 16:45:21 2025 +0700
+
+    Add storeback_snapshot.txt to .gitignore
+
+commit 3afb659031cd5bc8c762a63f709e0b8b9009be31
+Author: fxrdhan <firdausarief65@gmail.com>
+Date:   Thu May 1 16:38:05 2025 +0700
+
+    Initial commit
